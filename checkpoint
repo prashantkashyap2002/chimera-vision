@@ -1,2 +1,0 @@
-model_checkpoint_path: "vehicle_classification"
-all_model_checkpoint_paths: "vehicle_classification"
